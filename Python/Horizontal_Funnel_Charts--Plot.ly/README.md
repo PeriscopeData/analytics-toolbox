@@ -1,6 +1,6 @@
 # Horizontal Funnel Charts -- Plot.ly
 
-![Horizontal Funnel Chart](/Python/Horizontal_Funnel_Chart--Plot.ly/Images/horizontal_funnel_chart.png)
+![Horizontal Funnel Chart](/Python/Horizontal_Funnel_Charts--Plot.ly/Images/horizontal_funnel_chart.png)
 
 The above example is based on the tutorial found here: https://moderndata.plot.ly/funnel-charts-in-python-using-plotly/
 
