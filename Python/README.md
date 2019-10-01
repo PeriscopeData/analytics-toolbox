@@ -5,3 +5,6 @@
 
 2. ## Horizontal Funnel Charts -- Plot.ly
 	This example repurposes a blog post to generate a hoirzontal bar chart. See the README.md in the Horizontal Funnel Chart directory for additional details!
+
+3. ## Setting Bubble Size in Bubble Charts
+	This example is take from plot.ly's documentation with a few updates.  The CSV from the example is included. See the README.md in the Setting Bubble Size in Bubble Charts directory for additional details!
