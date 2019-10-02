@@ -8,3 +8,6 @@
 
 3. ## Setting Bubble Size in Bubble Charts
 	This example is take from plot.ly's documentation with a few updates.  The CSV from the example is included. See the README.md in the Setting Bubble Size in Bubble Charts directory for additional details!
+
+4. ## Dynamic Line of Scatter Chart Based on a Date Range Filter
+	This example uses Plot.ly to create dynamic charts that respond to Periscope Data filters being applied in the SQL query.
