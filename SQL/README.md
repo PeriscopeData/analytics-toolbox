@@ -1,3 +1,7 @@
 # SQL Files Here
 
-Jules Mei-Hyperlink to Email-Gmail
+1. ## Generate Series of Timestamps (1 second intervals)
+    This example is taken from Periscope's blog with a specfication on seconds.  See the README.md for additional details!
+
+2. ## Hyperlink to Email Gmail
+Updated the SQL ReadME
