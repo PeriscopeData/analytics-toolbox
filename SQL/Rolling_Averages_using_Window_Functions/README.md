@@ -72,11 +72,11 @@ Putting everything together:
 
 Now, we can plot only the rolling average line, as shown here:
 
-[Rolling Average](/Users/adamluba/Documents/GitHub/analytics-toolbox/SQL/Rolling_Averages_using_Window_Functions/images/rolling_average.png)
+![Rolling Average](/Users/adamluba/Documents/GitHub/analytics-toolbox/SQL/Rolling_Averages_using_Window_Functions/images/rolling_average.png)
 
 Tip: If you want to display both the raw data and the rolling average, Periscope's built-in visualizations has a quick "Show Rolling Average" check box that you can toggle on. 
 
-[Format Chart](/Users/adamluba/Documents/GitHub/analytics-toolbox/SQL/Rolling_Averages_using_Window_Functions/images/format_chart.png)
+![Format Chart](/Users/adamluba/Documents/GitHub/analytics-toolbox/SQL/Rolling_Averages_using_Window_Functions/images/format_chart.png)
 
 If your version of SQL doesn't support window functions, then you can use [Periscope Data's Python/R integration to run the same calculation in R](https://doc.periscopedata.com/article/r-and-python#article-title) (as shown [here](https://community.periscopedata.com/t/36ba3d/using-r-to-plot-only-the-rolling-average-line)), or using Python (shown [here](https://community.periscopedata.com/t/63baxv)).
 
