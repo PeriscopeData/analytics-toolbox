@@ -1,0 +1,1 @@
+CSV file with 130 records of human body temperature readings derived from the Journal of Statistics Education (Shoemaker 1996). 
