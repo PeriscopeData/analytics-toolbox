@@ -1,4 +1,13 @@
-# SQL Files
+# SQL Files Here
 
-1. ## Fixing DISTINCT ON not supported
-	This example uses window functions in Redshift and Snowflake to create the equivalent of the DISTINCT ON Postgres function.  
+1. ## Generate Series of Timestamps (1 second intervals)
+    This example is taken from Periscope's blog with a specfication on seconds.  See the README.md for additional details!
+
+2. ## Hyperlink to Email Gmail
+Updated the SQL ReadME
+
+3. ## Rolling Averages using Window Functions
+	How to do rollling averages with SQL using window functions 
+
+4. ## Fixing DISTINCT ON not supported
+	This example uses window functions in Redshift and Snowflake to create the equivalent of the DISTINCT ON Postgres function. 
