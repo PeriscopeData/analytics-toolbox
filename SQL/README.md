@@ -7,4 +7,5 @@
 Updated the SQL ReadME
 
 3. ## Rolling Averages using Window Functions
-	How to do rollling averages with SQL using window functions 
+	How to do rollling averages with SQL using window functions
+	 
