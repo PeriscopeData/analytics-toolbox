@@ -8,6 +8,3 @@ Updated the SQL ReadME
 
 3. ## Rolling Averages using Window Functions
 	How to do rollling averages with SQL using window functions 
-
-4. ## Fixing DISTINCT ON not supported
-	This example uses window functions in Redshift and Snowflake to create the equivalent of the DISTINCT ON Postgres function. 
