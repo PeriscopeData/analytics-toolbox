@@ -1,4 +1,4 @@
-# Fixing DISTINCT ON not supported
+# Implementing SELECT DISTINCT ON in other SQL Dialects
 
 Ever seen the following error when materializing a view?
 
