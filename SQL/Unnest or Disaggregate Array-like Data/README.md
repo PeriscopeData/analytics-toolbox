@@ -74,8 +74,9 @@ order by 1, 3
 
 
 And the output looks like this: 
+
+![alt text](data_intermediate.png "Data after Transformation")
  
-![alt text](data_after.png "Data after Transformation")
 
 We’re almost there! It’s time to use these columns along with the split_part() function to get one item at a time. The function definition and documentation is provided below. We’ll use the aggregated column as the first argument, the delimiter (a comma) as the second argument, and part_number as the third argument. It should be clear now why we named the numbers column as part_number!
 
@@ -94,6 +95,8 @@ order by 1, 3
 ```
 
 That gives us a result that looks like this:
+
+![alt text](data_after.png "Data after Transformation")
 
  
 From here, we’re just doing cleanup! We only care about two of the columns, and we don’t want nulls or empty strings in our results. To reflect that, change the outermost query to the following:
