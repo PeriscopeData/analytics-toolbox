@@ -6,3 +6,5 @@
 	This provides a dataset of area codes, city names, state name, Latitude and Longitude.
 3. ## US Zip Codes with Latitude and Longitude
 	This provides a dataset of area codes, cities, counties, and state name, Latitude and Longitude.
+4. ## US County GeoJSON
+	This provides the GeoJSON boundaries for all US counties.
