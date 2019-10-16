@@ -8,3 +8,6 @@
 	This provides a dataset of area codes, cities, counties, and state name, Latitude and Longitude.
 4. ## US County GeoJSON
 	This provides the GeoJSON boundaries for all US counties.
+
+5. ## What pro sport should you play?
+	This provides the datasets of athletes salaries (Football, Baseball, Basketball, and Hockey) in North America.
