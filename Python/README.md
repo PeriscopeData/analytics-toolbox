@@ -11,3 +11,6 @@
 
 4. ## Dynamic Line of Scatter Chart Based on a Date Range Filter
 	This example uses Plot.ly to create dynamic charts that respond to Periscope Data filters being applied in the SQL query.
+	
+5. ## A Beginner's Guide to Linear Regression Models in Python
+	This post walks through all of the code and output for each step of a basic linear regression model
