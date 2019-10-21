@@ -11,3 +11,5 @@
 3. ## Rolling Averages using Window Functions
     How to do rolling averages with SQL using window functions 
 
+4. ## Manipulating Dates, Datetimes, Unix Timestamps, and other date formatting tricks in Redshift
+	How to manipulate date in Redshift SQL, with and without Periscope's built-in date formatters.
