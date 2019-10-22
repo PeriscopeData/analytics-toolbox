@@ -14,3 +14,6 @@
 	
 5. ## A Beginner's Guide to Linear Regression Models in Python
 	This post walks through all of the code and output for each step of a basic linear regression model
+
+6. ## Removing Whitespace Margins from Plotly Charts
+	This post guides through how to adjust the margins of a plot.ly chart (Python). Supporting links for R provided.
