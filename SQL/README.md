@@ -13,3 +13,6 @@
 
 4. ## Manipulating Dates, Datetimes, Unix Timestamps, and other date formatting tricks in Redshift
 	How to manipulate date in Redshift SQL, with and without Periscope's built-in date formatters.
+
+5. ## Generate Series of Dates in Snowflake
+	How to create a series of dates as snowflake does not have a native generate_series function like postgres
