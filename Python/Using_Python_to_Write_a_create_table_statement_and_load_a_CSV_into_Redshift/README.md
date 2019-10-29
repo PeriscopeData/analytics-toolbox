@@ -137,13 +137,13 @@ We can compare a couple of those questions with the average salary of the respon
  
 And we quickly see that average respondent's salary actually decreases with a focus on data structures and algorithms when hiring! In contrast, a heavier emphasis on communications skills is associated with higher salaries.
 
-![Knowledge of Algoithms](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/Knowledge_of_Algoithms.png)
+![Knowledge of Algoithms](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/Knowledge_of_Algorithms.png)
 
 How important should each of the following be in the hiring process? 
 
 When we look a level deeper, we can see why—students aren't worried about communications skills yet.
 
-![Knowledge of Algoithms Area](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/Knowledge_of_Algoithms_Area.png)
+![Knowledge of Algoithms Area](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/Knowledge_of_Algorithms_Area.png)
 
 
 While Stack Overflow didn't ask for respondent's titles, I suspect an emphasis on communication skills continues to grow as people advance their careers. It turns out communications skills are highly valued. Luckily, we've written a [post about communications in analytics](https://www.periscopedata.com/blog/communication-is-critical-in-analytics)!
