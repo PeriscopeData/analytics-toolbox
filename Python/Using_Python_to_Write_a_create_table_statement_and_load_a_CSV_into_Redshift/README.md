@@ -1,6 +1,6 @@
 # Using Python to Write a Create Table Statement and Load a CSV into Redshift
 
-![Header](/Python/Using_Python_to_Write_a_Create_Table_Statement_and_Load_a_CSV_into_Redshift/Images/header.png)
+![Header](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/header.png)
 
 Usually when I need to upload a CSV I will use Periscope Data's CSV functionality. It's fast, easy, allows me to join the data with all my databases, and automatically casts types. Sometimes, however, I like to interact directly with a Redshift cluster—usually for complex data transformations and modeling in Python. When interacting directly with a database, it can be a pain to write a create table statement and load your data. When the table is wide, you have two choices while writing your create table—spend the time to figure out the correct data types, or lazily import everything as text and deal with the type casting in SQL. The first is slow, and the second will get you in trouble down the road.
 
@@ -137,13 +137,13 @@ We can compare a couple of those questions with the average salary of the respon
  
 And we quickly see that average respondent's salary actually decreases with a focus on data structures and algorithms when hiring! In contrast, a heavier emphasis on communications skills is associated with higher salaries.
 
-![Knowledge of Algoithms](/Python/Using_Python_to_Write_a_Create_Table_Statement_and_Load_a_CSV_into_Redshift/Images/Knowledge_of_Algoithms.png)
+![Knowledge of Algoithms](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/Knowledge_of_Algoithms.png)
 
 How important should each of the following be in the hiring process? 
 
 When we look a level deeper, we can see why—students aren't worried about communications skills yet.
 
-![Knowledge of Algoithms Area](/Python/Using_Python_to_Write_a_Create_Table_Statement_and_Load_a_CSV_into_Redshift/Images/Knowledge_of_Algoithms_Area.png)
+![Knowledge of Algoithms Area](/Python/Using_Python_to_Write_a_create_table_statement_and_load_a_CSV_into_Redshift/Images/Knowledge_of_Algoithms_Area.png)
 
 
 While Stack Overflow didn't ask for respondent's titles, I suspect an emphasis on communication skills continues to grow as people advance their careers. It turns out communications skills are highly valued. Luckily, we've written a [post about communications in analytics](https://www.periscopedata.com/blog/communication-is-critical-in-analytics)!
