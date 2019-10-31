@@ -1,10 +1,12 @@
+#Getting_Around_Overlapping_Data_Labels_With_Python
+
 A common hazard when adding data labels to a chart, is that often times the data labels will overlap when there are two points located relatively close to one another. Fortunately, the flexibility of python allows us a way around overlapping data labels. 
 
-Here is my original chart as a Periscope scatter plot with data labels applied,
+Here is my original chart as a Periscope scatter plot with data labels applied, 
 
 ![Periscope Scatter Plot](/Python/Getting_Around_Overlapping_Data_Labels_With_Python/Images/Periscope_Scatter_Plot.png)
 
-We can see the the data labels overlap in some areas making it hard to read and visually unappealing. 
+We can see the the data labels overlap in some areas making it hard to read and visually unappealing.  
 
 Instead we can create a Python chart and write a custom function that checks the location of the data-labels and adjusts any that overlap. 
 
