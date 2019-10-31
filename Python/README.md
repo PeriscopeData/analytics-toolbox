@@ -9,11 +9,20 @@
 3. ## Setting Bubble Size in Bubble Charts
 	This example is take from plot.ly's documentation with a few updates.  The CSV from the example is included. See the README.md in the Setting Bubble Size in Bubble Charts directory for additional details!
 
-4. ## Using Python to Write a Create Table Statement and Load a CSV into Redshift
+4. ## Dynamic Line of Scatter Chart Based on a Date Range Filter
+	This example uses Plot.ly to create dynamic charts that respond to Periscope Data filters being applied in the SQL query.
+	
+5. ## A Beginner's Guide to Linear Regression Models in Python
+	This post walks through all of the code and output for each step of a basic linear regression model
+
+6. ## Removing Whitespace Margins from Plotly Charts
+	This post guides through how to adjust the margins of a plot.ly chart (Python). Supporting links for R provided.
+
+7. ## Using Python to Write a Create Table Statement and Load a CSV into Redshift
 	This walks through the process of taking a CSV, figureing out the table structure from it, and creating a table in Redshift for the data. See the README.md in the directory for additional details!
 
-5. ## Gantt Chart for Team Workflows
+8. ## Gantt Chart for Team Workflows
 	This script includes a function to create Gantt charts to visualize team workflows using matplotlib. See the README.md in the directory for additional details!
 
-6. ## Getting Around Overlapping Data Labels With Python
+9. ## Getting Around Overlapping Data Labels With Python
 	This shows how to make a matplotlib scatter chart without overlapping data labels. See the README.md in the directory for additional details and examples!
