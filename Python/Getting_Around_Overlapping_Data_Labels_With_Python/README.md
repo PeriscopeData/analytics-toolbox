@@ -1,4 +1,4 @@
-#Getting_Around_Overlapping_Data_Labels_With_Python
+# Getting_Around_Overlapping_Data_Labels_With_Python
 
 A common hazard when adding data labels to a chart, is that often times the data labels will overlap when there are two points located relatively close to one another. Fortunately, the flexibility of python allows us a way around overlapping data labels. 
 
