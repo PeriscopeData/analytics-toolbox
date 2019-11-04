@@ -17,3 +17,12 @@
 
 6. ## Removing Whitespace Margins from Plotly Charts
 	This post guides through how to adjust the margins of a plot.ly chart (Python). Supporting links for R provided.
+
+7. ## Using Python to Write a Create Table Statement and Load a CSV into Redshift
+	This walks through the process of taking a CSV, figureing out the table structure from it, and creating a table in Redshift for the data. See the README.md in the directory for additional details!
+
+8. ## Gantt Chart for Team Workflows
+	This script includes a function to create Gantt charts to visualize team workflows using matplotlib. See the README.md in the directory for additional details!
+
+9. ## Getting Around Overlapping Data Labels With Python
+	This shows how to make a matplotlib scatter chart without overlapping data labels. See the README.md in the directory for additional details and examples!
