@@ -5,3 +5,6 @@
 
 2. ## A Beginner's Guide to Linear Regression Models in R
     This post walks through all of the code and output for each step of a basic linear regression model
+
+3. ## Creating a Split Funnel Chart in R
+    This post contains the code to create a segmented funnel chart using ggplot2
