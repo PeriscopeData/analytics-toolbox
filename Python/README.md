@@ -26,3 +26,12 @@
 
 9. ## Getting Around Overlapping Data Labels With Python
 	This shows how to make a matplotlib scatter chart without overlapping data labels. See the README.md in the directory for additional details and examples!
+
+10. ## Contract Adherence KPI Chart
+	This shows how to build a visual where we can see how much of an allocated / contracted amount has been consumed
+	
+11. ## Radial Funnel Chart
+	An alternative visual way to represent funneling data
+
+12. ## Radial Bar Chart with Pending Pipeline
+	A visual to see progress to a goal, along with the amount of pending pipeline to reach the given goal
