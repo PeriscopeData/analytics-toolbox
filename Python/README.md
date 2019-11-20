@@ -35,3 +35,6 @@
 
 12. ## Radial Bar Chart with Pending Pipeline
 	A visual to see progress to a goal, along with the amount of pending pipeline to reach the given goal
+	
+13. ## Calculating Trimmed Means (SQL and Python)
+	3 different methods to calculate trimmed means, depending on your use case
