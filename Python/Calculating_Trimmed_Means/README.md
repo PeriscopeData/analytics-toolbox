@@ -8,7 +8,7 @@ For the examples below, let's assume we have the following data: user_ids, and h
 
 **Figure 1**
 
-![rawdata](/SQL/Calculating_Trimmed_Means/Images/rawdata.png)
+![rawdata](/Python/Calculating_Trimmed_Means/Images/rawdata.png)
 
 Note: There are a few nuances to keep in mind when developing a protocol for trimmed means. Primarily, we need to assess how to handle multiple occurrences of a value when it is either the lower or upper bound of results to be trimmed.
 
