@@ -19,3 +19,6 @@
 
 6. ## Calculating Trimmed Means (SQL and Python)
 	3 different methods to calculate trimmed means, depending on your use case
+
+7. ## Custom Aggregation Filter
+	Create your own aggregation filter within Periscope to add your own desired date intervals
