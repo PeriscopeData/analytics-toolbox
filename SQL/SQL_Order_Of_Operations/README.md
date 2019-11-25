@@ -7,29 +7,29 @@ The first thing you' learn in SQL is the order in which we write various clauses
 
 The first part of the query the database will read is the FROM clause. These are the table(s) we are pulling data from. Any joins that are done are executed first by the query planner.  Joining on many rows can often be costly. As a strategy for optimization we can filter down the rows before joining the tables. Because the FROM clause comes before the WHERE clause we will want to filter the results with a CTE before joining them in our final query.  This might look like,
 
-  with
-    american_companies as (
-      select
-        *
-      from
-        company
-      where
-        country = 'USA'
-    )
-    , current_users as (
-      select
-        *
-      from
-        users
-      where
-        deleted_at is null
-    )
-  select
-    *
-  from
-    t1
-    join t2 on
-      american_companies.id = current_users.company_id
+    with
+      american_companies as (
+        select
+          *
+        from
+          company
+        where
+          country = 'USA'
+      )
+      , current_users as (
+        select
+          *
+        from
+          users
+        where
+          deleted_at is null
+      )
+    select
+      *
+    from
+      t1
+      join t2 on
+        american_companies.id = current_users.company_id
 
 2. WHERE
 
