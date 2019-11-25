@@ -38,3 +38,12 @@
 	
 13. ## Calculating Trimmed Means (SQL and Python)
 	3 different methods to calculate trimmed means, depending on your use case
+	
+14. ## Plotly Choropleth with Slider
+	Create an interactive map chart that allows users to see changes in a geographical data over time
+
+15. ## Percentile Curves — Another way to show distributions
+	Python code to generate the values needed to plot a percentile curve
+
+16. ## Number Overlay with Secondary Reference Number
+	Matplotlib solution to creating a number overlay with contextualizing information
