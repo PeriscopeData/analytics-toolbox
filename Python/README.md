@@ -47,3 +47,21 @@
 
 16. ## Number Overlay with Secondary Reference Number
 	Matplotlib solution to creating a number overlay with contextualizing information
+
+17. ## Waterfall Charts — Plot.ly
+	Using plotly to visualize changes in a metric over time in a bar-chart like representation
+	
+18. ## Overlapping Area Charts — Plot.ly
+	For those who prefer overlapping over stacking area charts
+	
+19. ## Radial Bar Charts — Plot.ly (Progress to Goal)
+	Use plotly to visualize trending to a goal metric
+	
+20. ## Boxplot — Plot.ly
+	A favorite for representing spread and distributions
+	
+21. ## KPI Chart — Plot.ly
+	Contextualize KPIs with secondary metrics
+	
+22. ## Sankey Chart — Plot.ly
+	Visualize flows of items using Plot.ly
