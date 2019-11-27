@@ -4,7 +4,7 @@
 
 Inspect the attached managers and associates tables (also pasted below for reference). Create a combined table that contains all the data from all employees. 
 
-Orignal Tables:
+Original Tables:
 
 ![original1](/SQL/SQL_Interview_Questions/Q3_Create_A_Combined_Table/Images/original1.png)
 
