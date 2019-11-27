@@ -1,4 +1,4 @@
-# Use a Chart-Level filter for your Y Axia — Plot.ly
+# Use a Chart-Level filter for your Y Axis — Plot.ly
 
 ![chart_filter](/Python/Chart_Level_Filter_for_Y_Axis/Images/chart_filter.png)
 
