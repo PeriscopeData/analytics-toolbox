@@ -8,3 +8,6 @@
 
 3. ## Creating a Split Funnel Chart in R
     This post contains the code to create a segmented funnel chart using ggplot2
+   
+4. ## Changing Line Styling
+    A guide to using plot.ly to create customized line styles

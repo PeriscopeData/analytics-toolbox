@@ -1,0 +1,11 @@
+employee_id,employee_name,salary,manager_id
+1,Fabian,65000,4
+2,Suzanna,75000,4
+3,Lee,68000,4
+4,Nisha,110000,10
+5,Andrew,80000,8
+6,Christina,76000,8
+7,Timothy,71000,8
+8,Ernesto,100000,10
+9,Alice,125000,10
+10,Maria,150000,

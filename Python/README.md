@@ -89,3 +89,9 @@
 	
 30. ## Introduction to Hyperparameter Optimization - Machine Learning
 	Training an effective ML model requires fine tuning of various parameters. Here's a post introducing how to do so
+	
+31. ## Conditional Formatting on Entire Rows in Plot.ly
+	Use plotly to highlight specific rows that meet a criteria
+	
+32. ## Changing Line Styling
+	A guide to using plot.ly to create customized line styles
