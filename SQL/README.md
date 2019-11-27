@@ -43,3 +43,6 @@
 	
 14. ## Correlation Coefficient SQL Snippet
 	A parameterized SQL snippet to calculate the pearson correlation coefficient
+	
+15. ## SQL Interview Questions
+	A handful of practice questions and answer keys for those looking to learn or brush up on their SQL
