@@ -65,3 +65,27 @@
 	
 22. ## Sankey Chart — Plot.ly
 	Visualize flows of items using Plot.ly
+	
+23. ## Gantt Chart — Plot.ly
+	Visualize project timelines using plot.ly
+
+24. ## Funnel Chart — Plot.ly
+	Use plotly to visualize funnel-based metrics
+	
+25. ## Using a Chart-Level filter for your Y Axis -- Plot.ly
+	Create a drop down filter in your chart, enabling selection of different metrics on a chart y axis.
+	
+26. ## Visualizing Text Data with Wordclouds
+	Use Python to generate a wordcloud
+	
+27. ## 3D Scatter plots in Plot.ly
+	Create an interactive 3D plot using Python graphing libraries
+	
+28. ## Text boxes with different fonts!
+	A fun way to create text boxes with unique fonts
+	
+29. ## Prepping a dataframe to hold your trraining and testing data - Machine Learning
+	Keep data for ML training and testing in one centralized place
+	
+30. ## Introduction to Hyperparameter Optimization - Machine Learning
+	Training an effective ML model requires fine tuning of various parameters. Here's a post introducing how to do so
