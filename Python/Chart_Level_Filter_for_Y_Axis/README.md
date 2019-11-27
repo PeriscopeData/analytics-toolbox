@@ -1,6 +1,6 @@
 # Use a Chart-Level filter for your Y Axia — Plot.ly
 
-![chart_filter](Python/Chart_Level_Filter_for_Y_Axis/Images/chart_filter.png)
+![chart_filter](/Python/Chart_Level_Filter_for_Y_Axis/Images/chart_filter.png)
 
 Want to create a chart-level filter, allowing you to change your Y axis? Say hello to your new favorite library plot.ly! [Periscope's Python and R integration](https://doc.periscopedata.com/article/r-and-python#content) allows you to use Plot.ly (as well as a host of other libraries), some of which we will leverage in this example.
 
